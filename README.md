@@ -5,7 +5,7 @@
 - Eg. Episode 02 is on branch 02 of the repository.
 - Episode 01 is on the main branch.
 
-  # Assignment - 1
+# Assignment - 1
 
   #### 1) What is emmet?
   - It is a plugin used to auto-generate boiler-plate code. For example, we can use '!' to generate HTML boilerplate code.
